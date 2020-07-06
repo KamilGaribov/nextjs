@@ -1,0 +1,9 @@
+.t span{
+    color: blue;
+}
+.b{
+    width: 100vw;
+    height: 100vh;
+    background-color: green;
+    transition: all 2s ease-in-out;
+}
